@@ -6,7 +6,7 @@ namespace CursoCSharp.ClassesEMetodos
 {
     public class CalculadoraEstatica {
 
-        // Método de Classe ou Método estático!!!
+        // Método de Classe ou Método estático
         public static int Multiplicar(int a, int b) {
             return a * b;
         }
