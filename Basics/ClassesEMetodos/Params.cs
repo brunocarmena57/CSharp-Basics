@@ -13,7 +13,7 @@ namespace CursoCSharp.ClassesEMetodos
         }
 
         public static void Executar() {
-            Recepcionar("Pedro", "Manu", "Roger","Ana", "Bia");
+            Recepcionar("Pedro", "Manu", "Roger", "Bia");
         }
     }
 }
