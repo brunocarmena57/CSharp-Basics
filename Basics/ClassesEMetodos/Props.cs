@@ -44,7 +44,7 @@ namespace CursoCSharp.ClassesEMetodos
             var op1 = new CarroOpcional("Ar Condicionado", 3499.9);
             Console.WriteLine(op1.PrecoComDesconto);
 
-            // op1.PrecoComDesconto = 3000;
+            // op1.PrecoComDesconto = 3000
 
             var op2 = new CarroOpcional();
             op2.Nome = "Direção Elétrica";
