@@ -4,6 +4,8 @@ using System.Text;
 
 namespace CursoCSharp.Colecoes
 {
+{
+
     class Array
     {
         public static void Executar() {
