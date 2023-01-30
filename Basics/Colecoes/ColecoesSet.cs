@@ -7,7 +7,7 @@ namespace CursoCSharp.Colecoes
     class ColecoesSet
     {
         public static void Executar() {
-            var livro = new Produto("Game of Throne", 49.9);
+            var livro = new Produto("Game of Thrones", 49.9);
             
             var carrinho = new HashSet<Produto>();
             carrinho.Add(livro);
