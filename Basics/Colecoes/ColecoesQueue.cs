@@ -2,7 +2,8 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace CursoCSharp.Colecoes {
+namespace CursoCSharp.Colecoes 
+{
     class ColecoesQueue
     {
         public static void Executar() {
