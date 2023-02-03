@@ -15,6 +15,7 @@ namespace CursoCSharp.OO
             // Console.WriteLine(UsaMuitoPhotoshop);
         }
     }
+    
 
     public class AmigoDistante {
         public readonly SubCelebridade amiga = new SubCelebridade();
