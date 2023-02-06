@@ -1,8 +1,7 @@
 ﻿using System;
 using Encapsulamento;
 
-namespace CursoCSharp.OO
-{
+namespace CursoCSharp.OO {
     public class FilhoNaoReconhecido : SubCelebridade {
         public new void MeusAcessos() {
             Console.WriteLine("FilhoNaoReconhecido...");
