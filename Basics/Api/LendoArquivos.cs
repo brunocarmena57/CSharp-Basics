@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 
+
 namespace CursoCSharp.Api {
     class LendoArquivos {
         public static void Executar() {
