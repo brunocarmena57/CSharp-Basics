@@ -23,14 +23,14 @@ namespace CursoCSharp.Api
                     sw.WriteLine("Esse é");
                     sw.WriteLine("o nosso");
                     sw.WriteLine("primeiro");
-                    sw.WriteLine("arquivo!");
+                    sw.WriteLine("arquivo");
                 }
             }
             using (StreamWriter sw = File.AppendText(path)) {
                 sw.WriteLine("");
                 sw.WriteLine("É possível");
                 sw.WriteLine("adicionar");
-                sw.WriteLine("mais texto!");
+                sw.WriteLine("mais texto");
             }
         }
     }
