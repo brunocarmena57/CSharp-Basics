@@ -1,7 +1,6 @@
 ﻿using System;
 using System.IO;
 
-
 namespace CursoCSharp.Api
 {
     public static class ExtensaoString {
