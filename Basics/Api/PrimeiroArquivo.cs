@@ -21,7 +21,7 @@ namespace CursoCSharp.Api
             if (!File.Exists(path)) {
                 using (StreamWriter sw = File.CreateText(path)) {
                     sw.WriteLine("Esse é");
-                    sw.WriteLine("o nosso");
+                    sw.WriteLine("o");
                     sw.WriteLine("primeiro");
                     sw.WriteLine("arquivo");
                 }
